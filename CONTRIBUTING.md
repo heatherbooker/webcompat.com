@@ -144,7 +144,11 @@ All code contributions should come in the form of a pull request, as a topic bra
 
     `r? @miketaylr`
 
-    This will notify the person that your request is waiting for a review for merging. Ask a review only by one person, this will avoid misunderstandings and the ball is dropped. (Python: karlcow, miketaylr. JavaScript: magsout, miketaylr, tagawa, zoepage CSS: magsout, zoepage).
+    This will notify the person that your request is waiting for a review for merging. Ask a review only by one person, this will avoid misunderstandings and the ball is dropped.
+    
+    **Python**: [@karlcow](https://github.com/karlcow), [@miketaylr](https://github.com/miketaylr), 
+    **JavaScript**: [@magsout](https://github.com/magsout), [@miketaylr](https://github.com/miketaylr), [@tagawa](https://github.com/tagawa), [@zoepage](https://github.com/zoepage),  
+    **CSS**: [@magsout](https://github.com/magsout), [@zoepage](https://github.com/zoepage)
 
 11. Continue discussion in the pull request.
 
